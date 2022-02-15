@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
 class MainActivity : AppCompatActivity() {
+    //nambahin variabel login
     var login:Boolean = true
 
     override fun onCreate(savedInstanceState: Bundle?) {
